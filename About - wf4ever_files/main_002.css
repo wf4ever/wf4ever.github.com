@@ -1,0 +1,39 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;clear:both;}
+fieldset,img{border:0;}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}
+caption,th{text-align:left;}
+q:before,q:after{content:'';}
+abbr,acronym{border:0;border-bottom:1px dotted #000;cursor:help;}
+html{overflow-y:scroll;}
+body{background:#FFF;font:62.5%/1.4 Arial,Helvetica,Verdana,sans-serif;}
+body.portal-popup{background:none;padding:10px;}
+body.configuration-popup{padding-bottom:0;}
+body.portal-iframe{padding:0;}
+body.html-editor{background:#FFF;color:#000;}
+blockquote,ul,ol,dl{margin:1em;}
+ol,ul,dl{margin-left:2em;}
+ol{list-style:decimal outside;}
+ul{list-style:disc outside;}
+ul ul{list-style-type:circle;}
+ol ol{list-style-type:upper-roman;}
+dl dd{margin-left:1em;}
+th{font-weight:bold;}
+caption{margin-bottom:.5em;text-align:center;}
+p{margin-bottom:1em;}
+h1{font-size:1.8em;}
+h2{font-size:1.6em;}
+h3{font-size:1.4em;}
+h1,h2,h3{margin:1em 0;}
+h4,h5,h6{font-size:1.1em;}
+h1,h2,h3,h4,h5,h6,strong{font-weight:bold;}
+b,strong{font-weight:bold;}
+i,em{font-style:italic;}
+code,pre{font-family:"Courier New",Courier,monospace;white-space:pre;}
+a{color:#EB7F0D;}
+#heading,#footer{margin:0 auto;width:960px;}
+#wrapper{overflow:hidden;}
+#banner{-moz-box-shadow:0 0 9px #333;-webkit-box-shadow:0 0 9px #333;background:#FD9732;background-image:-moz-linear-gradient(top,#FD9732,#570000);background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#FD9732),color-stop(1,#570000));box-shadow:0 0 9px #333;padding:20px 0 210px;position:relative;}
+#heading .company-title{margin:0;}
+#content{-moz-border-radius:10px;-moz-box-shadow:0 0 8px #000;-webkit-border-radius:10px;-webkit-box-shadow:0 0 8px #000;background:#FFF;border-radius:10px;box-shadow:0 0 8px #000;margin:-190px auto 0;padding:20px;position:relative;width:920px;z-index:1;}
+#footer p{margin:1em 0;}
